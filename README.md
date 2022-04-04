@@ -38,8 +38,6 @@
 <img src="https://img.shields.io/badge/-Socket.io-010101?logo=Socket.io&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Jasmine-8A4182?logo=Jasmine&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Cypress-17202C?logo=Cypress&logoColor=fff" />
-<img src="https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=fff" />
-<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=fff" />
 <p/>
   
 <h4 align="left">Tools:<h4/>
