@@ -33,7 +33,7 @@
 
   
 
-#### I have some experience with:
+#### I also have experience with:
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
