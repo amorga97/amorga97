@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm Antonio</h1>
 
-<img src="https://i.pinimg.com/originals/5f/35/c4/5f35c44225db7ff98c0aef9805e77ad2.gif" style="width: 300px" align="right"/>  
+<div>
+  
+<a href="https://app.daily.dev/amorga97"><img src="https://api.daily.dev/devcards/ddf25c81cd164222811bfa1585ba17bb.png?r=ovk" width="400" alt="Antonio Morga's Dev Card" align="right"/></a><div/>
+
 
 💻 I'm a full stack Web Developer from Spain
 
@@ -35,6 +38,8 @@
 
 #### I also have experience with:
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
