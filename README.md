@@ -7,7 +7,7 @@
 
 💻 I'm a full stack Web Developer from Spain
 
-📚 I'm currently expanding my toolbox, learning technologies like flutter and socket.io
+📚 I'm currently venturing into mobile development with flutter.
 
 🧑‍🤝‍🧑 I'm looking to collaborate on interesting projects
 
