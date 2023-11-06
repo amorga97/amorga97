@@ -62,7 +62,7 @@
   ## 📊 Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amorga97&show_icons=true&locale=en" alt="amorga97" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moisesrj97&layout=compact&langs_count=8&theme=buefy"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amorga97&layout=compact&langs_count=8&theme=buefy"/>
  </p>
   
 
